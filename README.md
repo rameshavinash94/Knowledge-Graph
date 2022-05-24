@@ -4,6 +4,7 @@
 1. Avinash Ramesh
 2. Poojashree NS
 3. Abraham Kong
+
 **Meet with team to discuss what factors you would/should investigate to make an investment decision!! What factors [think about the way you did AlternusVera for factors and microfactors] need to know about the company it's products it's partners and customers and officers ??**
 
 As a team we went through couple of "[articles](https://investinganswers.com/articles/important-factors-before-investing-company)" to get factors and microfactors that helps to decide weather to invest in a company or not.
