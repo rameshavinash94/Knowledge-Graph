@@ -7,7 +7,7 @@
 
 
 **Our KE gif:**
-!('ke of coinbase')(https://github.com/rameshavinash94/cmpe257_final_exam/blob/main/KE_gif.gif?raw=true)
+!['ke of coinbase'](https://github.com/rameshavinash94/cmpe257_final_exam/blob/main/KE_gif.gif?raw=true)
 
 
 **Meet with team to discuss what factors you would/should investigate to make an investment decision!! What factors [think about the way you did AlternusVera for factors and microfactors] need to know about the company it's products it's partners and customers and officers ??**
