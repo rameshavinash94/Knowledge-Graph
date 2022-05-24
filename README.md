@@ -45,7 +45,7 @@ One we have the Amalgamated date, our process goes through various pharases to g
 2. ADD SVO TRIPLETS TO GRAPH
 3. UPDATE NODE LABES AND PROPERTIES with the help of Google Knowledge graph search api.
 4. DEDUP AND CLEAN THE GRAPH
-5. CREATE GRAPH
+5. BUILD GRAPH
 6. GENERATE GRAPH EMEDDING
 7. If tIme, Permits some ML
 
