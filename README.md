@@ -5,8 +5,7 @@
 2. Poojashree NS
 3. Abraham Kong
 
-
-MAIN COLAB TO RUN: https://github.com/rameshavinash94/cmpe257_final_exam/blob/main/CMPE257_Data_Miners_Final_Exam_All_Sections.ipynb
+**MAIN COLAB TO RUN:** https://github.com/rameshavinash94/cmpe257_final_exam/blob/main/CMPE257_Data_Miners_Final_Exam_All_Sections.ipynb
 
 **Our KE gif:**
 !['ke of coinbase'](https://github.com/rameshavinash94/cmpe257_final_exam/blob/main/KE_gif.gif?raw=true)
