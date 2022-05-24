@@ -1,0 +1,212 @@
+source relationship destination
+disclosure base "michael crichton novel"
+disclosure base "michael douglas"
+disclosure include "donald sutherland"
+disclosure be "barry levinson"
+disclosure be "1994 american erotic thriller film"
+"non fungible token" record "distributed ledger"
+"non fungible token" record nft
+"non fungible token" allow owner
+"non fungible token" be "financial security"
+"non fungible token" be "digital data"
+"non fungible token" be blockchain
+wednesday be holiday
+wednesday be week
+wednesday be countries
+wednesday be friday
+wednesday be tuesday
+wednesday be day
+wednesday be "fifth day"
+"daniel brandon bilzerian" be "armenian american poker player"
+"peaky blinders" follow "world war"
+"peaky blinders" follow "direct aftermath"
+"peaky blinders" follow "peaky blinders crime gang"
+"peaky blinders" follow exploits
+"peaky blinders" set birmingham
+"peaky blinders" set "steven knight"
+"peaky blinders" be "british crime drama television series"
+fundsmith manage "£ 26bn"
+fundsmith manage assets
+fundsmith manage december
+fundsmith manage "terry smith"
+fundsmith be "london based investment management company"
+coinbase be 2012.industry
+coinbase be "online platform"
+coinbase be coin
+coinbase be 201-500.id
+coinbase be stakes
+coinbase be funds
+coinbase be "cryptocurrency company"
+coinbase be nasdaq
+coinbase be merchants
+coinbase be internet
+coinbase be low
+coinbase be 116,506,382
+coinbase be "digital currency"
+coinbase help "shape policies"
+coinbase help "think tank"
+coinbase help terra
+coinbase include bitmap
+coinbase come value
+coinbase come cryptocurrencies
+coinbase see "compatible digital wallet"
+coinbase meet "9 newcomers"
+coinbase have concerns
+coinbase have plans
+coinbase show "instagram account"
+coinbase show "based test"
+coinbase provide series
+coinbase provide bitcoins
+coinbase provide "bank accounts"
+coinbase provide "merchant payment processing systems"
+coinbase reveal instagram
+coinbase choose "coinbase pro"
+coinbase choose "basic advanced crypto accounts"
+coinbase say "latest quarterly filing"
+coinbase say "twitter post"
+coinbase say wednesday
+coinbase say disclosure
+coinbase say "bankruptcy risk"
+coinbase allow "bitcoin wallets"
+coinbase "Shan Aggarwal Head" "corporate development"
+coinbase launch "new crypto"
+coinbase push "policy goals"
+coinbase push "star stock picker cathie wood ark innovation etf"
+coinbase cut aws
+coinbase trim costs
+coinbase join "emerging unicorn board"
+coinbase "Coinbase Forms Crypto Think Tank" april
+coinbase move director
+coinbase move "$ 59 m worth"
+coinbase move bitcoin
+coinbase happen "foot soldiers"
+coinbase happen "meme trading revolution"
+coinbase fall "stock market"
+coinbase fall world
+coinbase weigh investors
+coinbase run 401(k
+coinbase get portion
+coinbase get pushback
+coinbase drop "november peak"
+coinbase drop cryptocurrency
+coinbase drop savings
+coinbase conjoin "crypto reuters"
+coinbase COIN "ref=""https://www.reuters.com companies"
+coinbase go ride
+coinbase mean customers
+coinbase Reuters.com "big fall"
+coinbase Reuters.com "u.s securities exchange commission sec requirement"
+coinbase "o"" target=""_blank"">(coin" "non fungible token"
+coinbase "o"" target=""_blank"">(coin" "ref=""https://www.reuters.com companies coin"
+coinbase open "nft marketplace"
+coinbase "Coinbase Global Inc" users
+coinbase "Coinbase Global Inc" reuters.com
+coinbase "a collapse" "wood ark fund"
+coinbase "a collapse" "pandemic low"
+coinbase "Emilie Choir COO" founder
+coinbase "Emilie Choir COO" "brian armstrong co"
+coinbase "UNLOCK PREMIUM datum" database
+coinbase transfer stablecoins
+coinbase transfer "$ 44 m worth"
+coinbase transfer btc
+coinbase cratere "retail investors?how"
+"digital currency" be "digital computer systems"
+"digital currency" be currency
+"digital currency" be internet
+founder portray "company original founders"
+founder portray "conniving ruthlessness"
+founder portray control
+founder portray "mcdonald fast food restaurant chain"
+founder portray story
+founder portray creation
+founder star "businessman ray kroc"
+founder star "john lee hancock"
+founder star "michael keaton"
+founder star "robert siegel"
+founder be "2016 american biographical drama film"
+"corporate development" phase assets
+"corporate development" phase "intellectual property"
+"corporate development" phase "corporate financing"
+"corporate development" phase markets
+"corporate development" phase companies
+"corporate development" phase "strategic alliances"
+"corporate development" refer planning
+"corporate development" refer "organizational objectives"
+"corporate development" refer strategies
+"corporate development" include "management team recruitment"
+"corporate development" include activities
+database host "computer clusters"
+database store "file system"
+database be "organized collection"
+database be computing
+database be data
+"think tank" be research
+"think tank" be topics
+"think tank" be "social policy"
+"think tank" be "research institute"
+april be "gregorian calendar"
+april be months
+april be "30 days"
+april be "fourth month"
+april be "31 days"
+april be length
+april be "early julian"
+april be year
+bitcoin verify "network nodes"
+bitcoin verify network
+bitcoin verify cryptography
+bitcoin verify "public distributed ledger"
+bitcoin verify blockchain
+bitcoin verify peer
+bitcoin be "decentralized digital currency"
+bitmap use bit
+bitmap use colors
+bitmap use map
+bitmap use pixel
+bitmap use pixels
+bitmap use "particular bitmapping application"
+bitmap call bits
+bitmap call noun
+bitmap call index
+bitmap call "bit array"
+bitmap be computing
+bitmap be domain
+bitmap be mapping
+"stock market" include businesses
+"stock market" include "private companies"
+"stock market" include "ownership claims"
+"stock market" include "equity crowdfunding platforms"
+"stock market" include "public stock exchange"
+"stock market" include securities
+"stock market" include investors
+"stock market" include stocks
+"stock market" include shares
+"stock market" include buyers
+"stock market" include aggregation
+plans draw "digital file"
+plans draw form
+plans draw building
+plans draw paper
+plans be set
+plans be place
+plans be drawings
+pushback cross possibility
+pushback cross "individual circumstances"
+pushback cross consideration
+pushback cross border
+pushback cross asylum
+pushback be "state measures"
+pushback be set
+pushback be term
+cryptocurrency be medium
+cryptocurrency be government
+cryptocurrency be "digital currency"
+cryptocurrency be "central authority"
+cryptocurrency be "computer network"
+cryptocurrency be exchange
+value denote "different actions"
+value denote significance
+value denote aim
+value denote importance
+value denote degree
+value denote ethics
